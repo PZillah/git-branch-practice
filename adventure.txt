@@ -1,6 +1,6 @@
 Hello, this text file was created to practice branching from module 9.2 on Branches.
 
-Jesus
+Jesus Christ
 Joan of Arc
 Abraham Lincoln
 
